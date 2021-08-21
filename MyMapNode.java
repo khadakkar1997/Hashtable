@@ -1,4 +1,4 @@
-package com.hashtable;
+ackage com.hashTable;
 
 public class MyMapNode<K, V> {
 	K key;
@@ -44,5 +44,4 @@ public class MyMapNode<K, V> {
 			nodeString.append("\n").append(next);
 		return nodeString.toString();
 	}
-
 }
